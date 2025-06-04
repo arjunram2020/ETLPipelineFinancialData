@@ -40,6 +40,6 @@ df_parsed.writeStream \
     .option("sfDatabase", "analytics") \
     .option("sfSchema", "public") \
     .option("sfWarehouse", "compute_wh") \
-    .option("dbtable", "employee_earnings") \
+    .option("dbtable", "nyse_shortened") \
     .option("checkpointLocation", "/tmp/checkpoints/employee_earnings") \
     .start()
