@@ -1,4 +1,3 @@
-# XnodeProjectOne
 Project Proposal: Intelligent Data Pipelines for Financial Asset Management 
 Foundation Setup:
 
