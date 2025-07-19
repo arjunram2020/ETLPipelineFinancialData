@@ -12,7 +12,7 @@ from pyspark.sql.types import *
 snowflake_options = {
     "sfURL": "MIZRUDP-NN16547.snowflakecomputing.com",
     "sfUser": "ARJUNR9206",
-    "sfPassword": "College11!!!!!",
+    "sfPassword": "____________",
     "sfDatabase": "ARJUN_TEST",
     "sfSchema": "PUBLIC",
     "sfWarehouse": "COMPUTE_WH"
